@@ -1,0 +1,4 @@
+{
+    "command": "pytest",
+    "working_directory": "/home/kavia/workspace/code-generation/classical-dance-teacher-portfolio-198096-198109/backend"
+}
