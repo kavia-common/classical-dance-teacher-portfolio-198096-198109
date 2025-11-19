@@ -1,9 +1,0 @@
-{
-  "name": "dance-portfolio-backend-wrapper",
-  "version": "1.0.0",
-  "private": true,
-  "description": "Wrapper to provide a start command for environments expecting npm start; actual backend is Python/Flask.",
-  "scripts": {
-    "start": "bash start.sh"
-  }
-}
